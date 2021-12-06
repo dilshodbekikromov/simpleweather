@@ -2,9 +2,6 @@
 A simple django app telling the current weather of any location. I used a free api from https://openweathermap.org/
 
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 
 class FullStackDev:
 
